@@ -1,7 +1,7 @@
 # Examen_V2_1272
-- ![image](https://github.com/user-attachments/assets/7121cc8f-9f84-4e97-b382-85af27a1cc20)
-- ![image](https://github.com/user-attachments/assets/438a710d-2ba0-4a29-a69f-7b9b5d017dac)
-- ![image](https://github.com/user-attachments/assets/229e4d72-08a8-4a49-83d7-012994b28f80)
+- ![image](https://github.com/user-attachments/assets/d2bd3ebf-e830-4a79-a5af-77f377806197)
+-![image](https://github.com/user-attachments/assets/c4f0707e-fe6c-47da-85fa-16d362771a9b)
+- ![image](https://github.com/user-attachments/assets/a3c1b731-5d67-4ba2-a8fa-66a294feef06)
 # Resultados
-- ![image](https://github.com/user-attachments/assets/41738c14-49e1-4c4f-9ea6-541e3a85f1a5)
-- ![image](https://github.com/user-attachments/assets/1f4a8335-8c03-412d-be94-6e61152d5923)
+- ![image](https://github.com/user-attachments/assets/231cdd99-f018-465a-af15-13069de3143a)
+- ![image](https://github.com/user-attachments/assets/177ca1d7-7038-405f-8cf3-24b688faf5f5)
